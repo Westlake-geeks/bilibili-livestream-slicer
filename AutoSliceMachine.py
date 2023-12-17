@@ -175,10 +175,10 @@ async def uploader_video(output_file_path,id):
     print(title)
     print('----------------------------------------正在上传---------------------------------------------')
     credential = Credential(
-            sessdata="76ee9c61%2C1718042513%2C354b5%2Ac1CjB5hjlz2qxYmNQvFmaBxhUInIV09zrr_z_8kSQReeyZvxDHTDWUX61JhKjJfW_6IFwSVkNobmxRQzVrdTUyV05UcGlERGpSczFGS2dWOV9SX1NxdUdPNGs4V3liNm9zM0p2TWRNLXVnVzRFeVB5Q05VdlVuSm15LVZwOVh5WXV5Z0EzVTJId053IIEC",
-            bili_jct="a7d54721ada697698b95185525386efb",
-            buvid3="95D3BFB8-6A0D-089B-1AD0-DBCA01E7316769801infoc",
-            dedeuserid="3546593185761960"
+            sessdata="",
+            bili_jct="",
+            buvid3="",
+            dedeuserid=""
         )
     # 具体请查阅相关文档
     meta = {
